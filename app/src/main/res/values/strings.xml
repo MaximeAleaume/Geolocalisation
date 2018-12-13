@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Geolocalisation</string>
+    <string name="onResume">Welcome back !</string>
+</resources>
